@@ -49,7 +49,7 @@ The application also provides an AI chatbot that can answer questions related to
 
 - `app.py` - Main application code
 - `requirements.txt` - Required Python libraries
-- `tumor_classifier_model.pth` - Trained ResNet50 model
+- `tumor_classifier_model.pth` - Trained model used by the application (not included due to file size)
 - `README.md` - Project documentation
 
 ## Disclaimer
